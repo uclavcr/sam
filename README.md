@@ -2,7 +2,9 @@
 
 Statistic and analytical module
 
-This is used to show charts coming from vufind installation. It takes vufind query and transforms it to solr shape and then use solarium library to run the query. It is based on nette library and chart.js library for charting
+This is used to show charts coming from vufind installation. It takes vufind query and transforms it to solr shape and then use solarium library to run the query. It is based on nette library and chart.js library for charting.
+
+There is also our adapted installation of vufind with all the newly defined indexes
 
 Installation
 
